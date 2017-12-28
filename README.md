@@ -2,6 +2,8 @@
 
 Here is a short walk-though to get a single page on github as a user page.  If i left off an details please leave me comments in the issues tracker.  thanks
 
+## Setting up the repository and adding a ZURB Foundation template
+
 |              |              |
 |        ---      |        ---      |
 |1. Set up a new repo as in the previous demo | [art3870winter2017-sample1](https://github.com/instructian/art3870winter2017-sample1)|
@@ -21,27 +23,42 @@ Here is a short walk-though to get a single page on github as a user page.  If i
     <meta name="robots" content="index, follow"> <!-- do you want to search engines to search your site? -->
     <meta name="revisit-after" content="3 month"> <!-- update the search results every X? -->
     <title>Ian Pollock Web Portfolio | About Ian Pollock</title>   <!-- change the title for each page title | page name-->
-<!-- END -->
+<!-- END (to see all of the text, scroll to the right)-->
 ```
-|
+|9. Understand the ZURB Foundation X Y Grid structure |Learn the All-New XY Grid by ZURB Foundation! https://www.youtube.com/watch?v=tjjVKGeoi3A
+Online Documentation https://foundation.zurb.com/sites/docs/xy-grid.html |
+|10. Set up a basic home page for your portfolio using the grid||
+|11. Create a new commit message||
+|12. Commit the change||
+|13. Push Origin to upload| |
+
+## Publishing your USER Page
+
+|   |   |
+|---|---|
+|1. Go to your Repository on Github|
+|2. Go to the Repository Settings | ![go to the repo settings][four]|
+|3. Scroll to the Settings > GitHub Pages Section under settings | ![pages settings][five]|
+|4. Choose master branch as source and save
+|5. scroll down to the Settings > GitHub Pages Section to see the URL for your site (it might take a few minutes to go live) |![pages settings][six]|
+|6. Congratulations! You can now share this link with everyone and they can see your work live on the web.||
+|7. For extra credit keep working to make an awesome portfolio and link it to a custom domain name.||
 
 
 
+### EXTRA CREDIT  - buy and add you own domain name
 
-|4. Fill in the fields (make sure you pay attention to the paths!)|![fill out the fields][two]|
-|5. Create the Repository - check on your computer for the folder| ![check on your computer][three]|
-|6. Upload the Repository to GitHub by creating a commit message and Publishing GitHub (first time only)|![publish][four]|
-|7. Make changes to the read me file|
-|8. Create a new commit message|
-|9. Commit the change|
-|10. Push Origin to upload| ![Push Origin][five]|
 
-### Here is a Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-### Here is a introduction to github that you should watch https://youtu.be/BCQHnlnPusY
+### Here are some ZURB Foundation - XY GRID - tutorials.
+
+1. Learn the All-New XY Grid by ZURB Foundation! https://www.youtube.com/watch?v=tjjVKGeoi3A
+2. COMPREHENSIVE SESSION https://zurb.com/university/lessons/learn-the-flexbox-based-powerhouse-xy-grid
+3. ALTERNATIVE BASIC INTRO https://www.linkedin.com/learning/learning-foundation-6/basic-setup-of-the-xy-grid
 
 
 [one]: images/step1.png "DL Foundation for Sites - Complete"
 [two]: images/step2.png "Add Project Folder"
 [three]: images/step3.png "Add images folder"
-[four]: step4.png "New repo setup"
-[five]: step5.png "New repo setup"
+[four]: images/step4.png "go to settings"
+[five]: images/step5.png "choose master branch"
+[six]: images/step6.png "go to the link to see your site"
