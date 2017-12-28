@@ -44,8 +44,6 @@ Online Documentation https://foundation.zurb.com/sites/docs/xy-grid.html |
 |6. Congratulations! You can now share this link with everyone and they can see your work live on the web.||
 |7. For extra credit keep working to make an awesome portfolio and link it to a custom domain name.||
 
-
-
 ### EXTRA CREDIT  - buy and add you own domain name
 
 
