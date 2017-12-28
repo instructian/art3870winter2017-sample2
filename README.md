@@ -4,16 +4,16 @@ Here is a short walk-though to get a single page on github as a user page.  If i
 
 |              |              |
 |        ---      |        ---      |
-|1. Set up a new repo as in the previous demo|[art3870winter2017-sample1](https://github.com/instructian/art3870winter2017-sample1)|
+|1. Set up a new repo as in the previous demo | [art3870winter2017-sample1](https://github.com/instructian/art3870winter2017-sample1)|
 |2. Browse to ZURB FOUNDATION|https://foundation.zurb.com/|
 |3. Download  ZURB FOUNDATION FOR SITES| ![complete download][one]|
-Upzip the archive and copy all the files into your empty repository
-Add an "images" folder | ![folder structure][three]|
-Open the index.html file in your editor (ATOM is a great choice)
-Add the repo as a project folder in Atom | ![setting a project folder in atom][two]|
-Add the following block to the index.html file and customize it.
+|4. Upzip the archive and copy all the files into your empty repository
+|5. Add an "images" folder | ![folder structure][three]|
+|6. Open the index.html file in your editor (ATOM is a great choice)
+|7. Add the repo as a project folder in Atom | ![setting a project folder in atom][two]|
+|8. Add the following block to the index.html file and customize it. |
 ```
-<!-- MAKE SURE YOU TAKE ADVANTAGE OF THIS SECTION! -->
+<!-- SEO SECTION AND PAGE TITLE -->
     <meta name="web_author" content="editorial staff of meta tags"> <!-- who made the site? -->
     <meta name="description" content="Don't forget about about meta tags, search engine optimization and submitting your website to the search engines."> <!-- what is this site about? -->
     <meta name="keywords" content="web design, web authoring, template, art 3870" /><!-- what are some search keywords you might be using to find this sites? -->
@@ -21,8 +21,9 @@ Add the following block to the index.html file and customize it.
     <meta name="robots" content="index, follow"> <!-- do you want to search engines to search your site? -->
     <meta name="revisit-after" content="3 month"> <!-- update the search results every X? -->
     <title>Ian Pollock Web Portfolio | About Ian Pollock</title>   <!-- change the title for each page title | page name-->
-    <!-- END! -->
+<!-- END -->
 ```
+|
 
 
 
